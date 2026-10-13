@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.pyc
+frames/
+qdrant_db/
+output.mp3
+transcript.txt
+metadata.json
+*.mp4
+*:ses
